@@ -1,4 +1,4 @@
-package exerciciosPOO_01;
+package exerciciosPOO_01.utils;
 public class Rectangle {
     public double width;
     public double height;

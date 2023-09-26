@@ -1,4 +1,6 @@
-package exerciciosPOO_01;
+package exerciciosPOO_01.applications;
+
+import exerciciosPOO_01.utils.Employee;
 
 import java.util.Scanner;
 
